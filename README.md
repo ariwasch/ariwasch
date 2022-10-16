@@ -1,6 +1,6 @@
 ### Hi, my name is Ari
 #### About me
-I'm a second-year computer engineering student at the University of Waterloo. I have a broad range of interests, from robotics to app development and from software to hardware.
+I'm a third-year computer engineering student at the University of Waterloo. I have a broad range of interests, from robotics to app development and from software to hardware.
 
 #### 🔭 Cool things that I have worked on
 - [Rambl](https://rambl.app), public chat room where users can talk to everyone within a certain radius or on a certain topic
