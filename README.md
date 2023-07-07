@@ -22,8 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ariwasch&show_icons=true&theme=tokyonight)
-<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=ariwasch.ariwasch) -->
-
 [Linkedin](https://www.linkedin.com/in/ariwasch/)
